@@ -1,0 +1,31 @@
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\laboratorka 17-18.exe
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\laboratorka 17-18.deps.json
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\laboratorka 17-18.runtimeconfig.json
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\laboratorka 17-18.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\laboratorka 17-18.pdb
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\obj\Debug\net6.0\laboratorka 17-18.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\obj\Debug\net6.0\laboratorka 17-18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\obj\Debug\net6.0\laboratorka 17-18.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\obj\Debug\net6.0\laboratorka 17-18.AssemblyInfo.cs
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\obj\Debug\net6.0\laboratorka 17-18.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\obj\Debug\net6.0\laboratorka 17-18.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\obj\Debug\net6.0\refint\laboratorka 17-18.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\obj\Debug\net6.0\laboratorka 17-18.pdb
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\obj\Debug\net6.0\laboratorka 17-18.genruntimeconfig.cache
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\obj\Debug\net6.0\ref\laboratorka 17-18.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\laboratorka 17-18\laboratorka 17-18\obj\Debug\net6.0\laboratorka 17-18.csproj.CopyComplete

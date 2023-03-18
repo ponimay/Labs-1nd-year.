@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\bin\Debug\net6.0\kaboratorka11-12.exe
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\bin\Debug\net6.0\kaboratorka11-12.deps.json
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\bin\Debug\net6.0\kaboratorka11-12.runtimeconfig.json
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\bin\Debug\net6.0\kaboratorka11-12.dll
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\bin\Debug\net6.0\kaboratorka11-12.pdb
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\obj\Debug\net6.0\kaboratorka11-12.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\obj\Debug\net6.0\kaboratorka11-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\obj\Debug\net6.0\kaboratorka11-12.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\obj\Debug\net6.0\kaboratorka11-12.AssemblyInfo.cs
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\obj\Debug\net6.0\kaboratorka11-12.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\obj\Debug\net6.0\kaboratorka11-12.dll
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\obj\Debug\net6.0\refint\kaboratorka11-12.dll
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\obj\Debug\net6.0\kaboratorka11-12.pdb
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\obj\Debug\net6.0\kaboratorka11-12.genruntimeconfig.cache
+C:\Users\User\source\repos\kaboratorka11-12\kaboratorka11-12\obj\Debug\net6.0\ref\kaboratorka11-12.dll

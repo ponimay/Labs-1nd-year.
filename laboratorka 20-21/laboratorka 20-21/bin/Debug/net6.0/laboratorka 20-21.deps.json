@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "laboratorka 20-21/1.0.0": {
+        "runtime": {
+          "laboratorka 20-21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laboratorka 20-21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

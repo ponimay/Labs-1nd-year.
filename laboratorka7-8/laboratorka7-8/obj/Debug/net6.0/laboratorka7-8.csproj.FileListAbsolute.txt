@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\bin\Debug\net6.0\laboratorka7-8.exe
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\bin\Debug\net6.0\laboratorka7-8.deps.json
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\bin\Debug\net6.0\laboratorka7-8.runtimeconfig.json
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\bin\Debug\net6.0\laboratorka7-8.dll
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\bin\Debug\net6.0\laboratorka7-8.pdb
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\obj\Debug\net6.0\laboratorka7-8.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\obj\Debug\net6.0\laboratorka7-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\obj\Debug\net6.0\laboratorka7-8.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\obj\Debug\net6.0\laboratorka7-8.AssemblyInfo.cs
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\obj\Debug\net6.0\laboratorka7-8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\obj\Debug\net6.0\laboratorka7-8.dll
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\obj\Debug\net6.0\refint\laboratorka7-8.dll
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\obj\Debug\net6.0\laboratorka7-8.pdb
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\obj\Debug\net6.0\laboratorka7-8.genruntimeconfig.cache
+C:\Users\User\source\repos\laboratorka7-8\laboratorka7-8\obj\Debug\net6.0\ref\laboratorka7-8.dll

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\bin\Debug\net6.0\laboratoka3-4.exe
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\bin\Debug\net6.0\laboratoka3-4.deps.json
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\bin\Debug\net6.0\laboratoka3-4.runtimeconfig.json
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\bin\Debug\net6.0\laboratoka3-4.dll
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\bin\Debug\net6.0\laboratoka3-4.pdb
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\obj\Debug\net6.0\laboratoka3-4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\obj\Debug\net6.0\laboratoka3-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\obj\Debug\net6.0\laboratoka3-4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\obj\Debug\net6.0\laboratoka3-4.AssemblyInfo.cs
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\obj\Debug\net6.0\laboratoka3-4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\obj\Debug\net6.0\laboratoka3-4.dll
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\obj\Debug\net6.0\refint\laboratoka3-4.dll
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\obj\Debug\net6.0\laboratoka3-4.pdb
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\obj\Debug\net6.0\laboratoka3-4.genruntimeconfig.cache
+C:\Users\User\source\repos\laboratoka3-4\laboratoka3-4\obj\Debug\net6.0\ref\laboratoka3-4.dll
